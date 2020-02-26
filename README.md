@@ -15,6 +15,7 @@ ng serve
 ng test
 ng build
 ng generate directive highlight
+ng generate pipe filter
 
 --
 <li *ngFor="let hero of heroes" (click)="onSelect(hero)">
